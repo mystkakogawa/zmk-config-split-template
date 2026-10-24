@@ -1,0 +1,7 @@
+# config/build.yaml
+---
+include:
+  - board: nice_nano_v2
+    shield: silakka54_left
+  - board: nice_nano_v2
+    shield: silakka54_right
